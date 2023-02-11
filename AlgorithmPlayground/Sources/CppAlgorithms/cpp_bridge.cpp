@@ -6,12 +6,12 @@
 //
 
 #include "cpp_bridge.hpp"
-#include "cpp/ex003.hpp"
+#include "cpp/ex005.hpp"
 
 #ifdef __cplusplus
 extern "C"
 #endif
 
 void run_all_answer() {
-    Ex003::answer();
+    Ex005::answer();
 }
